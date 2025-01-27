@@ -1,9 +1,7 @@
 # Block_5_HTML_Workshop_Zoo_Problem
-An HTML a page that will make it easier for the new interns to identify each animal and understand their needs and behaviors.
+An HTML Webpage showing layout for Zoo website with title of Zoo Animals and showing image placeholders for bears and giraffes.
 
-Webpage showing layout for Zoo website with title of Zoo Animals and showing image placeholders for bears and giraffes.
-
-Zoo Page Requirements
+# Zoo Page Requirements
 Incorporate major HTML semantic tags, i.e., header, footer, article, section, and summary.
 Add a title for the browser tab.
 Create an h1 of what this page will do.
